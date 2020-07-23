@@ -2,7 +2,7 @@
 a simple frontal face detector app.
 
 STEPS TO RUN THE APP SUCCESSFULLY :
---> pip install opencv (or python-opencv)
+--> pip install opencv (or opencv-python)
     This is the module required
 --> create a directory named 'face_detector' in your desired place
 --> copy/download and place the xml file and .py file in that directory
